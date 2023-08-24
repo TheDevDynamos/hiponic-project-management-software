@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+    /* font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
+    /* font-family: 'Roboto', sans-serif; */
+    
+  
+    --primary-color1: #1E3A8A;
+    --primary-color2: #1E40AF;
+    --primary-color3: #1D4ED8;
+    --primary-color4: #2563EB;
+    --primary-color5: #3B82F6;
+    --primary-color6: #60A5FA;
+    --primary-color7: #93C5FD;
+    --primary-color8: #BFDBFE;
+    --primary-color9: #DBEAFE;
+    --primary-color10: #EFF6FF;
+    
+  
+  }
+
+  
