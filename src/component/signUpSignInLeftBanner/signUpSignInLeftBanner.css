@@ -1,8 +1,44 @@
-.signUp-signIn-left-banner{
+.signUp-signIn-left-banner {
     background-color: var(--primary-color4);
 }
 
-.logo img{
+.logo img {
     width: 167px;
     height: 34.65px;
+}
+
+.slider-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.slider-item h3 {
+    font-size: var(--fs-heading-3);
+    font-weight: var(--fw-bold);
+    color: var(--aditional-color-1);
+    
+}
+
+.slider-item p {
+    color: var(--greyscale-50, #F8FAFC);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: var(--fw-regular);
+}
+
+.slider-item .text-content {
+    margin-top: 48px;
+    margin-bottom: 40px;
+}
+
+.slick-dots li.slick-active button:before {
+    color:var(--aditional-color-1) !important;
+}
+
+.slick-dots li button:before{
+    font-size: 10px !important;
+    width: 16px !important;
+    color:var(--aditional-color-1) !important;
 }

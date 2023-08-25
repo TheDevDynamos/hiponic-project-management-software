@@ -6,7 +6,8 @@
     /* font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
     /* font-family: 'Roboto', sans-serif; */
     
-  
+
+    /* color primary*/
     --primary-color1: #1E3A8A;
     --primary-color2: #1E40AF;
     --primary-color3: #1D4ED8;
@@ -17,6 +18,26 @@
     --primary-color8: #BFDBFE;
     --primary-color9: #DBEAFE;
     --primary-color10: #EFF6FF;
+
+
+    /* color additional */
+
+    --aditional-color-1: #FFFFFF;
+
+
+    /* fontsize */
+
+    --fs-heading-1: 40px;
+    --fs-heading-2: 32px;
+    --fs-heading-3: 24px;
+    --fs-heading-4: 22px;
+    --fs-heading-5: 18px;
+    --fs-heading-6: 16px;
+
+    /* font Weignt */
+
+    --fw-bold:700;
+    --fw-regular:400;
     
   
   }
